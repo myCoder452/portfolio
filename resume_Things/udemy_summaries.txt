@@ -1,0 +1,477 @@
+FROM UDEMY
+1. COMPUTER FORENSICS AND DIGITAL FORENSICS
+Description
+This is the most comprehensive, yet straight-forward, course for the Digital Forensics and Computer Forensics on Udemy!
+
+*Get the Official Certificate after Completing the Course
+
+This course is intended for anyone who wants to learn the basics of digital forensics and computer forensics. Whether you are a beginner or an experienced professional, this course will provide you with the knowledge and skills necessary to become an expert in the field of digital forensics. Throughout the course, you will learn about the various types of digital forensics and the tools and techniques used in each one.
+
+The course starts by introducing you to the basic concepts of digital forensics, including the various types of digital evidence, the legal framework governing digital forensics, and the best practices used in digital forensics investigations. You will also learn about the various types of digital devices, including desktops, laptops, mobile devices, and servers, and the different types of data storage devices used in these devices.
+
+Once you have a good understanding of the basics of digital forensics, the course will dive deeper into the technical aspects of computer forensics. You will learn about the various tools and techniques used in computer forensics, including disk imaging, data recovery, and data analysis. You will also learn how to analyze network traffic, detect malware, and trace network activity.
+
+The course also covers mobile forensics, which is the process of investigating digital devices such as smartphones and tablets. You will learn about the various types of mobile devices, the different types of mobile operating systems, and the tools and techniques used in mobile forensics investigations. You will also learn how to extract data from mobile devices, recover deleted data, and analyze mobile data.
+
+The course also covers catching hackers, which is one of the most important aspects of digital forensics. You will learn about the various types of cyberattacks, including malware, phishing, and DDoS attacks, and the tools and techniques used to detect and investigate these attacks. You will also learn about the various types of cybercriminals, including hackers, crackers, and script kiddies, and the strategies used to catch them.
+
+Throughout the course, you will have access to a range of tools and resources that will help you develop your digital forensics skills. These include a range of software tools, case studies, and practical exercises that will give you hands-on experience in digital forensics investigations.
+
+Who Is This Course For? This course is designed for anyone who wants to learn about digital forensics, computer forensics, and mobile forensics. Whether you are a beginner or an experienced professional, this course will provide you with the knowledge and skills necessary to become an expert in the field of digital forensics. This course is suitable for:
+
+IT professionals who want to specialize in digital forensics
+
+Cybersecurity professionals who want to enhance their skills in digital forensics
+
+Law enforcement officials who need to investigate digital crimes
+
+Students who want to develop a career in digital forensics
+
+What Will You Learn? By the end of this course, you will have a comprehensive understanding of digital forensics, computer forensics, and mobile forensics. You will have the skills and knowledge necessary to investigate digital crimes, catch hackers, and recover digital evidence. You will learn:
+
+The basic concepts of digital forensics
+
+The legal framework governing digital forensics
+
+The best practices used in
+
+What is computer forensics?
+
+Computer forensics is the application of investigation and analysis techniques to gather and preserve evidence from a particular computing device in a way that is suitable for presentation in a court of law. The goal of computer forensics is to perform a structured investigation and maintain a documented chain of evidence to find out exactly what happened on a computing device and who was responsible for it. Computer forensics -- which is sometimes referred to as computer forensic science essentially is data recovery with legal compliance guidelines to make the information admissible in legal proceedings. The terms digital forensics and cyber forensics are often used as synonyms for computer forensics. Digital forensics starts with the collection of information in a way that maintains its integrity. Investigators then analyze the data or system to determine if it was changed, how it was changed and who made the changes. The use of computer forensics isn't always tied to a crime. The forensic process is also used as part of data recovery processes to gather data from a crashed server, failed drive, reformatted operating system (OS) or other situation where a system has unexpectedly stopped working.
+
+Why is computer forensics important?
+
+In the civil and criminal justice system, computer forensics helps ensure the integrity of digital evidence presented in court cases. As computers and other data-collecting devices are used more frequently in every aspect of life, digital evidence and the forensic process used to collect, preserve and investigate it -- has become more important in solving crimes and other legal issues.
+
+What you’ll learn
+Understanding the differences between computer forensics and digital forensics.
+Learning the basics of data acquisition and preservation.
+Identifying the legal and ethical implications of digital evidence.
+Knowing how to analyze digital evidence using popular tools such as EnCase and FTK.
+Understanding file systems and storage devices.
+Analyzing network security breaches and incidents.
+Learning the basics of computer and mobile device forensics.
+Understanding cybercrime and cyberterrorism.
+Investigating cyberbullying and online harassment.
+Identifying evidence of online fraud and identity theft.
+Conducting effective forensic investigations.
+Analyzing forensic evidence in criminal and civil cases.
+Understanding the chain of custody and preserving evidence.
+Learning about cloud storage and data analysis.
+Understanding the basics of cryptography and encryption.
+Analyzing web browsing and internet history.
+Usage of Linux Commands
+Computer Forensics
+Investigating the use of social media and digital communication.
+Volatility Framework
+Windows Registry
+Collecting evidence from digital devices such as cameras and DVRs.
+Linux Training
+Anti-Forensics
+Digital Forensics
+Examining email and instant messaging for evidence.
+Investigating the use of encryption and data hiding techniques.
+Understanding the impact of technology on the legal system.
+Analyzing malware and viruses.
+Mobile Forensics
+Conducting forensic investigations in a corporate environment.
+Cyber Security Training
+Identifying evidence of cyber espionage and intellectual property theft.
+Understanding the role of digital forensics in criminal investigations.
+Windows Forensics
+Analyzing the security of computer networks.
+Investigating wireless network security.
+Understanding the basics of virtual machine forensics.
+Learning about advanced computer and mobile device forensics.
+Identifying evidence of cyber attacks and cyber threats.
+and other awesome topics -->>
+Are there any course requirements or prerequisites?
+Access to a computer or laptop with an internet connection
+Who this course is for:
+Anyone interested in learning about digital forensics and investigating cybercrimes.
+Law enforcement professionals such as police officers, detectives, and investigators
+Legal professionals such as lawyers, attorneys, and judges
+IT professionals such as cybersecurity experts, network administrators, and system administrators
+Forensic professionals such as forensic accountants and fraud examiners
+Private investigators and consultants who specialize in digital forensics
+The course covers a wide range of topics related to computer and digital forensics, including data recovery, evidence collection and analysis, and investigative techniques. It is designed to provide both theoretical knowledge and practical skills to individuals interested in this field.
+
+2. Mastering PostgreSQL: The Ultimate SQL Guide for Beginners
+Mastering PostgreSQL: The Ultimate SQL Guide for Beginners
+
+
+
+Forget spreadsheets that sing lullabies. It's time to awaken the fire within your data!
+
+
+
+This isn't just a course, it's a data dojo where you'll transform from spreadsheet samurai to roaring Data Dragon, wielding the power of PostgreSQL and SQL to conquer any information beast.
+
+
+
+Here's what awaits you, brave adventurer:
+
+Master the ancient art of SQL: Learn the language of data, crafting powerful spells (queries) to extract hidden treasures (insights) from your datasets.
+
+Tame the mighty PostgreSQL: Build an impenetrable fortress for your information, mastering security, performance, and open-source power.
+
+Summon the visualization spirits: Turn raw data into mesmerizing charts and graphs, painting vibrant stories that captivate any audience.
+
+Wield the tools of a Data Dragon: Uncover the secrets of JOINs, GROUP BYs, CASE statements, and more, shaping your data into any form you desire.
+
+Conquer real-world quests: Go beyond theory! Tackle practical challenges from customer trends to business optimization, proving your newfound data mastery.
+
+
+
+This isn't your average data course. It's a:
+
+Thrilling adventure: Unravel mysteries, overcome obstacles, and level up your skills with interactive exercises and real-world examples.
+
+Bite-sized mastery: Conquer the knowledge in digestible modules, fitting data dragon training into your busy schedule.
+
+Vibrant community: Connect with fellow data warriors, share your victories, and learn from each other on your data pilgrimage.
+
+
+
+By the end, you'll be:
+
+Speaking the language of data: Impress everyone with your newfound fluency, leaving spreadsheets trembling in your wake.
+
+Unmasking hidden insights: Unearth valuable trends and patterns, guiding your decisions with the wisdom of data.
+
+A force to be reckoned with: Conquer any data challenge, no matter how complex, proving your true Data Dragon status.
+
+
+
+Ready to unleash the beast within? Enroll in Unleash the Data Dragon: Awaken the Power of Postgres & SQL today!
+
+
+
+Remember, the data sleeps soundly, guarded by spreadsheets. But you, Data Dragon, have the power to awaken it – and the world will never be the same!
+
+
+
+Start your data adventure now!
+
+
+
+Let the data roar!
+
+What you’ll learn
+Become a data whisperer
+Craft powerful queries
+Unite the data universe
+Transform and manipulate
+Visualize the unseen
+Conquer real-world challenges
+Confidently writing SQL queries
+Unveiling hidden insights
+Speaking the language of data
+Become a data hero!
+Are there any course requirements or prerequisites?
+No PostgreSQL prerequisites? That's the beauty of it! We'll equip you with the tools you need from scratch.
+Who this course is for:
+For you, the eager newbie: Ready to ditch the data dark side and join the light? We'll unlock the secrets of SQL, your gateway to a career that sizzles with potential.
+For you, the code-wielding engineer: Craving new skills to conquer data-driven quests? We'll expand your arsenal with SQL, transforming you into a data-powered hero.
+For you, the curious explorer: Mystified by the language of information? We'll unveil its power, teaching you to speak the tongue of the future, one query at a time.
+For you, the dreamer: Imagine a world where data fuels your every move. We'll make it real, equipping you with the skills to become a data-powered force to be reckoned with.
+For you, the future-ready soul: The language of data is the language of tomorrow. Join us, and let's speak it together, shaping a world where information empowers everyone.
+
+3. Mastering Linux: The Complete Guide to Becoming a Linux Pro 
+Linux is a powerful operating system that has become the backbone of many technological systems, from servers to mobile devices. If you want to become a Linux pro, this comprehensive course is designed to help you achieve just that.
+
+In this course, you will start by learning the basics of Linux and progress to mastering more advanced concepts, including command line, shell scripting, system administration, and network configuration. You will learn how to install Linux, navigate the file system, manipulate files and directories, and manage user accounts.
+
+Next, you'll explore shell scripting and how to automate repetitive tasks using bash scripting. You will learn how to write scripts to perform system maintenance, automate backups, and perform network and system monitoring.
+
+Finally, you will delve into network configuration and learn how to set up and manage network interfaces, routing, and firewall rules.
+
+With real-world examples and hands-on exercises, this course will equip you with the skills you need to become a Linux pro. By the end of the course, you will be able to confidently work with Linux and have the knowledge to manage and maintain Linux systems.
+
+This course is suitable for anyone who wants to learn Linux, from complete beginners to experienced IT professionals looking to enhance their skills. The course is designed to be comprehensive and easy to follow, with step-by-step instructions and practical examples.
+
+Throughout the course, you will be challenged with exercises and quizzes to reinforce your knowledge and help you understand the concepts better. You will also have access to a community of like-minded learners, where you can ask questions, share your knowledge, and collaborate on projects.
+
+By the end of this course, you will have a solid foundation in Linux and the skills to become a Linux pro. You will be able to confidently perform tasks such as system administration, shell scripting, network configuration, and more. You will also be equipped with the knowledge to troubleshoot and resolve issues that may arise while working with Linux.
+
+Enroll now and take your first step towards mastering Linux. Whether you're looking to boost your career prospects, improve your skills, or just learn something new, this course has everything you need to become a Linux pro.
+
+What you’ll learn
+Understanding Linux commands and pipes.
+Exploring different Linux commands and their usage with pipes.
+Introduction to the Linux terminal and its key concepts.
+Finding helpful manuals and resources for Linux.
+Understanding Linux directories and their organization.
+Understanding the Linux shell and its role in interacting with the system.
+Working with the LS command to list directory contents.
+Understanding the difference between relative and absolute pathnames.
+Filtering LS output based on specific criteria.
+Copying files and directories using the CP command.
+Utilizing tab auto-completion for faster command entry.
+Working with symbolic and hard link files.
+Manipulating files and directories in Linux.
+Introduction to shell and expansion in Linux.
+Using arithmetic expressions with shell scripting.
+Automating folder creation using shell scripting.
+Quoting techniques in shell scripting.
+Introduction to permissions in Linux and their significance.
+Understanding the differences between UID, GID, and Shadow.
+Managing file and directory permissions in Linux.
+Exploring examples with file permissions.
+Understanding Linux permissions in-depth.
+Changing file permissions using the CHMOD command.
+Fundamentals of processes in Linux systems.
+Exploring the PS AUX command for process management.
+Utilizing the TOP command for monitoring system resources.
+Managing foreground and background processes.
+Bringing background processes to the foreground.
+Understanding and utilizing Linux process signals.
+Introduction to package management systems in Linux.
+Exploring the need for package management tools.
+Understanding and using package management in Linux.
+Fundamentals of TCP/IP networking.
+Exploring the layers of the TCP/IP model.
+Understanding how emails are sent and received over the Internet.
+Explanation of Protocol Data Units (PDU).
+Basic use of switches and data transmission in networking.
+Two networks communicating with a router in the middle.
+Working with the Traceroute (Trcrt) command for network diagnostics.
+Networking with Linux and its various tools and commands.
+and other awesome topics -->
+Are there any course requirements or prerequisites?
+Basic Computer Understanding
+Who this course is for:
+Everyone : This course is designed for individuals who have little to no prior experience with Linux. It provides a comprehensive introduction to Linux commands, terminal usage, and shell scripting, making it an ideal starting point for beginners who want to learn Linux from scratch.
+System Administrators: System administrators who need to manage Linux-based systems will find this course valuable. It covers essential topics such as file and directory permissions, process management, package management, and networking, providing administrators with the necessary skills to effectively manage and troubleshoot Linux systems.
+IT Professionals: IT professionals who work in environments that utilize Linux can benefit from this course. Whether they are involved in network administration, software development, or DevOps, understanding Linux commands, shell scripting, and networking concepts will enhance their ability to work efficiently and effectively in their roles.
+
+4. Docker Deep Dive: Build, Ship and Run Containers
+In today’s fast-paced tech world, knowing how to work with containers is a game-changer — and Docker is the industry-standard tool that powers modern development, deployment, and DevOps workflows. This beginner-friendly course is designed to give you a solid, practical foundation in Docker, whether you're a developer, aspiring DevOps engineer, or someone simply curious about containerization.
+
+Through clear, structured lessons and hands-on demos, you’ll go from installing Docker for the first time to building and orchestrating your own multi-container applications. You’ll learn not just how Docker works, but how to apply it to real-world projects using tools like Docker Compose, Docker Registry, Swarm, and Kubernetes.
+
+We understand that working with containers, images, and infrastructure might seem overwhelming at first — which is why this course focuses on practical tasks, visual explanations, and bite-sized lessons that are easy to follow and immediately actionable.
+
+By the end of the course, you’ll be able to confidently build, run, and manage Docker containers, connect services, create your own Dockerfiles, and even deploy infrastructure using orchestration tools — all with real-world use cases.
+
+
+
+What You’ll Learn in This Course
+
+How to install and set up Docker on your machine
+
+How to pull, run, and manage Docker containers
+
+Creating and using Docker volumes and networks
+
+Writing Dockerfiles and building custom images
+
+Managing multi-container setups with Docker Compose
+
+Publishing and pulling images with Docker Registry
+
+Applying Docker security best practices
+
+Using orchestration tools like Docker Swarm and Kubernetes
+
+Who This Course is For
+
+Developers who want to containerize their applications
+
+Beginners exploring Docker and DevOps fundamentals
+
+QA engineers, testers, and sysadmins working in modern environments
+
+Students preparing for careers in DevOps or cloud infrastructure
+
+Anyone looking to build real, deployable projects with Docker
+
+
+
+What’s Included
+
+Step-by-step lessons with real-world use cases
+
+Hands-on summary tasks at the end of each section
+
+Lifetime access and free updates
+
+Certificate of completion
+
+Beginner-friendly instruction from an experienced DevOps trainer
+
+About the Instructor
+
+My name is Oleksii Osypenko and I'm your instructor for this course. I started my career in IT in 2012 as a Manual QA in a small outsourcing company in Ukraine. Over the years, I transitioned into an SDET role, focusing on building complex, scalable systems that meet demanding enterprise needs. I’ve worked extensively with Docker, Kubernetes, and AWS—developing Java-based services that simulate entire corporate subsystems. While working with Telenor, I helped optimize tools and processes in the telecom industry. This course is built on years of real-world experience, and my goal is to help you gain not just theoretical knowledge, but the practical skills needed to use Docker with confidence.
+
+Get Started Now!
+
+If you’re ready to take your development and deployment skills to the next level — or start your journey into the world of DevOps — this course will give you the tools and confidence to get there. Whether you want to streamline your development environment, improve deployment, or build real-world infrastructure, Docker is the skill to learn — and this course is your guide.
+
+Comes with a 30-day money-back guarantee — no risk, just results.
+
+Enroll today and launch your first container in just minutes!
+
+See you in the first lecture!
+
+What you’ll learn
+Install and configure Docker on your local machine
+Pull and run containerized applications using Docker CLI
+Create and manage Docker volumes, networks, and port bindings
+Secure containers and manage secrets with Jenkins and HashiCorp Vault
+Write Dockerfiles to build custom container images
+Use Docker Compose to build and run multi-container applications
+Publish and pull images using a Docker registry
+Orchestrate containers using Docker Swarm and Kubernetes
+Are there any course requirements or prerequisites?
+No prior Docker or containerization experience required — this course starts from scratch!
+Who this course is for:
+Developers who want to containerize and deploy applications using Docker
+DevOps beginners looking to understand Docker, Docker Compose, and orchestration tools
+QA engineers and testers working in container-based environments
+System administrators interested in managing Docker infrastructure
+Students and professionals preparing for DevOps or cloud-related roles
+Anyone curious about modern software deployment and infrastructure automation
+
+5. Power BI For Beginners: Power BI Zero to Hero
+Unlock the Power of Data with Power BI Fundamentals A to Z (Gain EXCLUSIVE Power BI Dual Certification Upon Completion)
+
+Dive into the exciting world of data analytics and become proficient in Microsoft Power BI, the industry-leading tool for data analysis and data visualization. Whether you're aiming to start a career as a data analyst, enhance your data modeling skills, or simply make data-driven decisions, this course is the ultimate starting point for new Power BI users.
+
+What You’ll Learn
+
+In this comprehensive, beginner-friendly course, you'll:
+
+Master the basics of Power BI and its intuitive interface.
+
+Learn to connect and transform data from multiple sources for seamless data analysis.
+
+Build visually stunning dashboards and reports to communicate insights effectively.
+
+Understand data modeling and reflect relationships between data sets.
+
+Develop skills to manage large datasets and create dynamic visualizations.
+
+Earn a Power BI Dual Certification, showcasing your expertise in Microsoft Power BI and data analytics.
+
+Why Join Us?
+
+Step-by-Step Learning: This course breaks down even the most complex concepts into easy-to-follow steps, ensuring you grasp the fundamentals before progressing.
+
+Hands-On Learning: Gain practical experience by working on real-world projects that simulate professional scenarios.
+
+Practical Projects: Apply your knowledge with real-world projects and datasets designed to reinforce your skills.
+
+Dual Certification: Gain two certificates that validate your expertise and boost your professional credibility.
+
+Expert Instructor: Learn from an experienced data professional passionate about simplifying Power BI for new users.
+
+Proven Track Record: This course is brought to you by our leading academy trusted by thousands of learners worldwide for professional training and development.
+
+
+
+Why This Course is Perfect for You?
+
+This course is crafted specifically for beginners, meaning no prior experience with Power BI or data analytics is required. By the end of the course, you’ll be confident in your ability to handle data modeling, build insightful dashboards, and present compelling visual stories.
+
+Whether you're a student, aspiring data analyst, or professional looking to add Microsoft Power BI to your skill set, this is your go-to course for mastering the basics of Power BI quickly and effectively.
+
+Join thousands of learners worldwide who are transforming their careers with Power BI. Enroll now and take the first step toward becoming a skilled data professional!
+
+What you’ll learn
+Gain a dual certification in Power BI, demonstrating your expertise and helping you excel, stand out, and advance in your career.
+Build stunning reports and interactive dashboards to communicate insights clearly and make data-driven decisions effortlessly.
+Master Power BI basics, navigate the interface with confidence, and lay a strong foundation to create impactful dashboards and reports.
+Connect and integrate data from diverse sources like Excel, SQL, and cloud services, ensuring seamless data analysis and preparation.
+Clean, transform, and organize raw data to save time and ensure high-quality, analysis-ready datasets.
+Apply industry best practices to create visually appealing, professional dashboards that simplify complex data storytelling.
+Model relationships between tables to uncover meaningful trends and insights, ensuring your analysis is accurate and reliable.
+Use filters, slicers, and drill-through features to make your dashboards dynamic, interactive, and user-friendly.
+Save time with Power BI’s automation, templates, and pre-built visuals, making your workflow more efficient and productive.
+Optimize reports for faster performance, ensuring smooth usability while handling large datasets with ease.
+Share and collaborate effectively by publishing reports securely via Power BI Service, empowering teams to make informed decisions.
+Are there any course requirements or prerequisites?
+No background Knowledge needed and just the interest to learn about Power BI
+Who this course is for:
+Aspiring Data Analysts Individuals looking to start a career in data analytics and gain practical Power BI skills.
+Beginners in Data Visualization Anyone new to data visualization who wants to create impactful reports and dashboards.
+Business Professionals aiming to make data-driven decisions and improve reporting in their organization.
+Students and Graduates Learners seeking to enhance their resumes with Power BI expertise and dual certification.
+Small Business Owners Entrepreneurs wanting to analyze their business performance and visualize key metrics.
+Team Leaders and Managers Leaders who need to understand and present data insights for strategic decision-making.
+Non-Technical Professionals Individuals with no coding background looking to master data tools without complex programming.
+Excel Users Transitioning to BI Excel users looking to upgrade their skills and move into advanced business intelligence tools.
+Anyone Interested in Data Curious learners eager to understand and work with data, regardless of industry or role.
+
+6. Ultimate Shopify Tutorial
+Build a Shopify Store From Scratch (Beginner to Pro)
+The Ultimate Step-by-Step Shopify Tutorial for 2025
+
+Ready to launch your Shopify store but not sure where to start?
+
+This course is your complete, no-fluff guide to building a beautiful, high-converting Shopify website — even if you've never built a store before. Whether you're starting from zero or looking to improve your current setup, this 7-hour step-by-step course walks you through every essential piece of the puzzle.
+
+By the end, you’ll have a fully functional, strategically designed Shopify store — and the confidence to grow it.
+
+What You’ll Learn:
+
+How to set up your Shopify account the right way (with the best current deal)
+
+How to use GemPages to create stunning pages — no coding required
+
+Simple branding and design strategies that look pro without the headache
+
+How to write clear, powerful website copy using ChatGPT
+
+Full setup of email marketing using Omnisend
+
+SEO essentials to get found and rank faster
+
+Exactly what to do before and after launching
+
+Who This Is For:
+
+First-time Shopify store owners
+
+Creators, solopreneurs, and product-based business owners
+
+Anyone who wants a clean, strategic store that actually sells
+
+Everything is broken down step by step, beginner-friendly, and focused on real-world results — not just design, but strategy and conversions too.
+
+Plus, get access to the Free Shopify Launch Pack inside to help you build faster, write better, and launch with clarity.
+
+What you’ll learn
+Learn every step from setup to launch, including domains, products, payments, and core settings.
+Learn how to design a clean, high-converting website using GemPages (no coding required)
+Learn how to write effective website copy and product descriptions using ChatGPT
+Learn how to set up essential email marketing and SEO to attract and convert customers
+Are there any course requirements or prerequisites?
+No prior experience with Shopify needed. You will learn everything in the course.
+Who this course is for:
+Beginners looking to create their first Shopify Store From Scratch
+
+FROM TRYHACKME
+7. Pre Security Path 
+Cyber security basics
+Networking basics and weaknesses
+The web and common attacks
+Learn to use the Linux operating system
+This learning path will teach you the pre-requisite technical knowledge to get started in cyber security. To attack or defend any technology, you have to first learn how this technology works.
+
+The Pre-Security learning path is a beginner friendly and fun way to learn the basics. Your cyber security learning journey starts here!
+
+8. Cyber Security 101
+Learn everything you need to embark on a career path in offensive or defensive cyber security.
+
+Explore computer networking and cryptography
+Learn the basics of Linux, Windows, and AD
+Explore the world of offensive cyber security
+Discover the techniques of defensive security
+This beginner-friendly path aims to give a solid introduction to the different areas in Computer Security. This path covers the fundamental concepts and applications in the following:
+
+Computer networking and cryptography
+MS Windows, Active Directory, and Linux basics
+Offensive security tools and system exploitation
+Defensive security solutions and tools
+Cyber security careers

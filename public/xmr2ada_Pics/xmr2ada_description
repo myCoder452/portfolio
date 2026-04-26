@@ -1,0 +1,1 @@
+XMR2ADA is a multi-module prototype that combines Monero mining/wallet, an automated swap template, and Cardano node/wallet functionality to enable a flow from mined XMR to staked ADA. Core components are present; the principal work remaining is a robust orchestrator, secure key management, containerized deployment, and production‑grade reliability features.

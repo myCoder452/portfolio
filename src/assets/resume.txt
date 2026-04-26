@@ -1,0 +1,387 @@
+ABSOBEHA ADAMU  
+Ontario, Canada / absobehaadamu@proton.me  / +1 (343) 301 -5475  
+PROFESSIONAL SUMMARY  
+ Operated as an Associate Software Engineer for 2 years and completed my Bachelor's Degree in 
+Electrical Engineering and Minor in Computer Science from Carleton University. I have also engaged in a 
+variety of other roles, projects and experiences that requi red me to be a driven, punctual and coopera-
+tive teammate.  
+EDUCATION  
+BACHELOR OF ELECTRICAL ENGINEERING, MINOR IN COMPUTER SCIENCE   
+Carleton University / Graduation February 2022  
+• Award ed Engineering Entry S cholarship  
+OBJECTIVE  
+To secure a position at your  company, to expand my skills , experiences and qualifications.  
+COMPLETED COURSES & CERTIFICATIONS  
+Ultimate Shopify Tutorial (2025)  
+ Issued By: UDEMY  
+ Completion Date: Aug 2nd, 2025  
+ Graduated from one of the most thorough Shopify Training programs designed to create and 
+grow eCommerce sites that resulted in conversions. Developed real -world skills in store building, brand-
+ing, customer -focused design with GemPages (no coding), and writ ing persuasive copy with human quali-
+ties via AI tools like ChatGPT Created my first ever full fledged Shopify store, then set up a fully functional 
+Shopify store where I integrated email marketing thru Omnisend and did some basic SEO on the website. 
+The pe rfect training to help you get a product based online business up and running —or help run an ex-
+isting one even better with a focus on design, functionality or conversion.  
+ Certificate ID:  UC-6f1f35ab -de61 -43ae -8e9f -1abf803349a5  
+Power BI 101 – Microsoft Power BI Essentials & Certification  
+ Issued By: UDEMY  
+ Completion Date:  July 26th, 2025  
+ Certified in Microsoft Power BI through a business intelligence, data visualization and analytics 
+project based course. Mastered data modeling, transformation and visualization by connecting multiple 
+data sources to design dashboards that were interactive, dynamic while they aid in decision making. 
+Communicated data -driven insights effectively using best practices from industry And this training laid a strong Power BI understanding, enabled analytics in real life scenarios for Business, Financial and Opera-
+tions.   
+ Certificate ID: UC-562d9157 -2c80 -49d8 -bc7a -73381b973489  
+Docker Deep Dive: Build, Ship, and Ru n Containers  
+ Issued By: UDEMY  
+ Completion Date: July 25th, 2025  
+ Gained experience with tools and practices for working within a modern DevOps workflow with 
+Docker, including building images and containers, networking, container storage (volumes), orchest ration 
+(docker -compose), JavaScript Task Runners such as Grunt/Gulp. Managed to build custom Docker images 
+using Dockerfiles, run multi -container apps with Docker Compose and work with orchestration tools like 
+Docker Swarm and Kubernetes. Gained hands -on e xperience setting up container networks, ensuring de-
+ployables are secure and automated environments to help in scale applications. Useful for building scala-
+ble, modern applications and cloud -native infrastructures where continuous deployment of updates is 
+preferable;element developers and IT professionals that are interested in streamlining the creation of 
+development pipelines and optimizing the infrastructure forState in cloud native environments.  
+ Certificate ID: UC-6cac1ad7 -bbbe -4899 -9607 -446644a7dbe5  
+Mastering Linux: The Complete Guide to Becoming a Linux Pro  
+Issued By: UDEMY  
+Completion Date:  June 17, 2025  
+ Took a full -spectrum Linux training, graduated as an excellent system administration in com-
+mand -line proficiency, shell scripting, permissions, netw orking and performance monitoring. Developed 
+strong hands -on experience managing users, automating administrative tasks, configuring firewalls, and 
+troubleshooting systems across a wide range of Linux distributions Can comfortably use Linux Operating 
+Syste ms — getting you ready for System Administration, DevOps, and Infrastructure Engineering roles. 
+Good understanding of open -source technologies and basic networking concepts.  
+ Certificate ID: UC-d9d04da7 -080c -40d4 -bd23 -ee136abd007a  
+Mastering PostgreSQL: The  Ultimate SQL Guide for Beginners  
+Issued By: UDEMY  
+Completion Date:  June 8th, 2025  
+Description:  Completed the Mastering PostgreSQL: The Ultimate SQL Guide for Beginners  course 
+on UDEMY . The course provided me with an immersive, engaging and descriptive guide to mastering 
+PostgreSQL and pgAdmin. The course covered the core concepts such as  data manipulation, data 
+retrieval, managing advanced clauses, and manipulating tab les in various ways. The course included 
+topics on mathematical and logical operations, case statements, data transformation, using functions and 
+maintaining data integrity. The program also recognized the importance of schema design, renaming and 
+altering  tables and identifying hidden data relationships through joins and query analysis, acknowledging 
+the importance of these skills when referring to data analysis. Developed practical skills for analyzing and 
+managing datasets effectively.  Certificate ID: UC-496c6e33 -3426 -46e3 -82f8 -22d15a595603  
+Cyber Security 101  
+Issued By: TryHackMe  
+Completion Date: June 7th, 2025  
+Description: This program gave me a comprehensive foundation in key areas of cyber security, by 
+means of theoretical knowledge and hands -on experi ence. Provided a core understanding of networking 
+principles, encryption techniques and protocols for secure data communication. Refreshed on practical 
+skills on Windows and Linux command -line interface. Proficient in using and understanding various pen-
+etration testing tools and techniques to recognize vulnerabilities in applications and systems. Obtained 
+knowledge of strategies and tools for protecting systems against attacks, with an emphasis on incident 
+response and defense measures. Engaged in simulated  hands -on SOC operations and gained knowledge 
+on their roles and responsibilities for the security of any given network. Also refreshed and refined my 
+SQL fundamentals and web application security, provided insight on SQL syntax, properties and common 
+secu rity risks associated with SQL injections.  
+Certificate ID: THM -QSCJIPUZM4  
+Pre Security Path  
+Issued By: TryHackMe  
+Completion Date: May 31st, 2025  
+Description: Immersive, hands -on cybersecurity training certification focused on foundational 
+security concepts and principles. Gained practical experience using their built -in testing platform, engag-
+ing with Windows and Linux Operating systems, learning networking con cepts and crucial data transmis-
+sion information. Explored threat identification, ethical hacking basics and attack vectors. Gained skills in 
+Powershell and Linux bash command -line, navigating file systems and how to optimize the use of termi-
+nal-based tools . This certificate provided a fantastic foundation for further improvement.  
+Certificate ID: THM -6HDTAF9TC4  
+Computer Forensics and Digital Forensics Masterclass PRO +  
+Issued By: UDEMY -    OCSALY ACADEMY  
+Completion Date: May 30th, 2025  
+Description: This com plete and extensive course covers all fundamental areas of digital, comput-
+er and mobile forensics, includes techniques, tools, legal procedures and structures and real -world ap-
+plications in cybercrime investigations. This course is intended for students, I T professionals and others 
+who may require this information. It equips its students with the skills and knowledge to detect for digital 
+inconsistencies by analyzing digital evidence, demonstrating various methods in doing so.  
+Certificate ID: UC-cf3334a5 -b581-47c7 -b8e7 -cb4fbf58f8af  
+WORK EXPERIENCE  
+ASSOCIATE SOFTWARE ENGINEER (September 2022 - July 2024)  Toronto Dominion (TD) Bank  
+ Front -End Development  
+• Developed qualit y and dynamic user interfaces (UI) using JavaScript and React, 
+often for webpages, ensuring a smooth and engaging environment for any user  
+ Back -End Development  
+• Built and maintained quality scalable backend programs using Java and Node.js, 
+applying API i ntegration as well, so data can be communicated effectively between ser-
+vices  
+ SQL Database Development  
+• Designed and improved on SQL Databases, implementing APIs to ensure data can 
+be properly communicated  
+ Application Security  
+• Resolved vulnerabilities using Veracode, correcting a variety of vulnerabilities 
+which are graded based on their level of severity, while adhering to coding standards and 
+improving reliability and security  
+ Linux Proficiency  
+• Wrote and executed applications in Linux environments,  ensuring quality pro-
+gramming and performance  
+ Volunteer Engagement  
+• Willingly and actively participated in preparing company events, ensuring a high 
+quality environment for guests and doing my best to contribute to a positive workplace 
+culture  
+ Problem Solving Skills  
+• Demonstrated the ability to solve problems on my own, without any extensive 
+supervision, while also demonstrating the ability to communicate any problem clearly to 
+a superior if resources are being exhausted  
+• While also assuring proper communication between teammates, providing sup-
+port where necessary and de monstrating the willingness to provide extra support for 
+those in need  
+SERVER ( August 2021 - February 2022)  
+East India Company  
+ • Provided excellent service to the customers attending the restaurant  
+ • Maintained a clean and sanitized environment for the c ustomers and fellow workers  
+ • Functioned well in a fast -paced environment, while coordinating with coworkers  TIER 1 FINANCIAL SUPPORT SPECIALIST   (June  2021  – August 2021)  
+Millennium1Solutions  
+ • Was assigned and trained to answer calls in an appropriate  and friendly manner  
+ • Proficient using the Salesforce cloud software for data entry purposes  
+ • Learn a variety of softwares in a short period of time, and become competent in a fast -paced 
+environment  
+ • Providing customers with consistent/friendly credit card support, dealing with a variety of is-
+sues  
+SOFTWARE TECHNICIAN SUPPORT   (May 2019 – July 2 019)                                                                                 
+                              
+The Ottawa Hospital IT Medix EPIC  
+ • Support and assist at the operational system level of a software that required deep testing, 
+submitted t ickets required for verification using ServiceNow  
+ • Reported performance defects using ServiceNow and verified with development teams to veri-
+fy the bug repairs, and to receive an update on the status  
+ • Developed proficiency & obtained experience using th e EPIC database by assisting nurses  
+and physicians in documenting and organizing patient information, promptly  
+ • Improved hospital work environment by identifying and resolving database technical issues to 
+support the nurses and physicians  
+ • Explain t echnical/software issues clearly and accurately in a fast -paced environment  
+YOUTH WORKER ( December 2018 – January 2021)  
+Boys And Girls Club Of Ottawa  
+ • Design educational and engaging programs for the youth  
+ • Responsible for their safety & interactions with the other youth  
+ • Creating an inviting and inspirational environment & keeping a strict attendance record  
+CAMP COUNSELLOR  (July 2015 – August 2 017)                                                                                                         
+                                        
+Plant Pool Recreation Association (PPRA)  
+ • Provided youth with a safe environment  
+ • Kept documents on t he youth’s registration and progress over the course of the summer  
+ • Organize and engaged in games, sports, etc. for the youth to enjoy  KITCHEN WORKER    (June 2014 – September 2014)  
+Back Lane Caf é  
+ • Maintained a clean environment throughout the entire  restaurant  
+ • Washed dishes & prepared ingredients for the head chef  
+ • Lifted heavy crates of wood to fuel the fire of the oven  
+ 
+RELEVANT SKILLS, EXPERIENCES, & ACCOMPLISHMENTS  
+Analytical Skills  
+ • Wrote reports, analyzed data samples, and conducted presentations using Microsoft Word, Ex-
+cel, and PowerPoint respectively  
+ • Collected data on Analog AM modulation and demodulation, then generated plots using Excel 
+and MATLAB & Simulink for a final report & read schematics and designed using CAD tools  
+ • Developed the required skills in economic analysis to make sound economic and financial deci-
+sions to improve the efficient use of available resources in engineering projects  
+Communication Skills  
+ • Coordinated  math and science tutoring sessions with high school students, guided by con-
+sistent and effective communication skills, the student ’s performance had improved over the course of 
+the tutoring sessions.  
+ • Experience as a team member in a patent project for redesigning an all -season tire to an 
+all-road tire; collaboration, brainstorming and individual work, were key elements in creating a sufficient 
+patent  
+ • Presented technical information on tire technology while working with a team of students in 
+electric al and mechanical engineering streams, imparting technical knowledge in a manageable format to 
+a non -technical audience  
+                •   The Royal Canadian Legion Remembrance Contest Winner , I wrote a poem as an assignment 
+for Remembrance Day in Canada , this is a day commemorating the lives that were sacrificed in military 
+service fought in Canada, my literary skills and creativity were celebrated and won me an award and 
+recognition for my work  
+ 
+Technical Skills  
+ • Developed a program for the Game of L ife simulation, applying mathematical algorithms for 
+problem solving and analysis in MATLAB  
+ • Conducted electrical analysis (harmonic distortion levels, power consumption, etc.) on compo-
+nents such as LEDs, BJTs, and capacitors using an oscilloscope and voltmeter   • Developed an alarm clock in Verilog HDL modeling language, in a group project, ass igned spe-
+cific tasks to two individuals, and wrote a final report on the design of the code  
+ • Proficient with years of experience in data structures and algorithms using C, C++, Python, & 
+Java  
+ • Exceptional experience in graphics manipulation using the OpenGL library in C++  
+ • Extensive knowledge and experience using HTML and Javascript  
+ • Written in a variety of IDEs such as BlueJ, Visual Studio, Eclipse, Notepad++, Arduino, Oracle 
+Virtual Machine (Linux and Windows), Vivado  
+ • Experience using Linux wh ile compiling algorithms in C++ and Java while running a Virtual Ma-
+chine  
+ • Adobe Photoshop & Illustrator experience for personal creative endeavors, for refining design 
+skills for future use in the business field to expand potential opportunities  
+ 
+APPLIED  PROJECTS  
+BLOG WEBSITE (2025)  
+Purpose  
+ It's an integrated content management system in which the users can create, publish, and engage 
+with the blog posts. The primary aim is to create an online collaborative community that enables 
+knowledge sharing along  with the user interaction through comment and feedback mechanisms.  
+Scalability and Infrastructure  
+• Framework  
+   - Django:  Selected for its robust architecture and scalability. The platform is   engi-
+neered to accommodate feature expansion (such as additional user    roles, tagging 
+systems, and advanced search functionalities) as both user    base and content vol-
+ume increase.  
+• Database   
+   - PostgreSQL:  Utilized for its efficiency in handling lar ge datasets and    concur-
+rent user interactions, ensuring application reliability and speed at    scale.  
+Core Technologies and Libraries  
+•  Django & Django Rest Framework (DRF)  
+    - Responsible for routing, data models, view logic, and template rendering.  Its  modularity 
+supports maintainable and extensible codebases.  
+   - Facilitates the development of a RESTful API, allowing integration with mobile  clients and 
+third -party applications, ensuring data accessibility beyond the core  web platform.  • Bootstr ap 
+   - Provides a responsive, cross -device front -end layout with a uniform user  experience on 
+desktop, tablet, and mobile.  
+• Markdown  
+   - Facilitates easy writing of content by enabling writers to compose posts in an  abbreviated 
+syntax that reduces barriers for non -technical writers.  
+• Elasticsearch  
+   - Enables improved search functionality, enhancing content discoverability via  effecti ve key-
+word, tag, and category search.  
+Unique Features and Differentiators  
+•  Adaptable User Profiles  
+   - Users can customize their accounts, so that their experience and content choices  on the 
+website become personalized.  
+• Integrated Commenting System  
+   - Supports nested responses and offers post author and administrator controls to  facili-
+tate positive debates while maintaining content quality.  
+• Personalized Content Recommendations  
+ - Utilizing machine learning algorithms to monitor user activity and  provide  tailored content 
+recommendations for greater engagement and retention.  
+CHAT MESSAGING PLATFORM (2025)  
+React | Express.js | SQL  
+Full-Stack Web Application | Personal Project  
+• Built a live chat platform with user registration, secure login, and pe rsonalized profile creation.  
+• Integrated private and public channel creation for each user, direct and group messaging with 
+permanent conversation history saved in SQL databases.  
+• Developed responsive, interactive front -end with React, providing an ident ical user experience on 
+desktop and mobile platforms.  
+• Implemented RESTful API with Express.js to manage authentication, users, and message routing.  
+• Implemented SQL relational database schema for user information, message logs, and channel 
+information along with performance -tuned queries.  
+• Implemented role -based access controls and input validation to further ensure security and in-
+tegrity of data.  
+• Using state management in React  to manage live message updates efficiently.  • Structured architecture to scale for future feature enhancements  like media sharing, push alerts, 
+and search in messages.  
+ 
+AFRICAN BLOCKCHAIN CHAMPIONSHIP (2025)  
+Placed in the Top 20 Participants in the African Blockchain Championship  
+Overview  
+ My project, XMR2ADA, is a blockchain integration initiative that unites Mon ero's privacy -focused 
+Proof -of-Work ecosystem with Cardano's Proof -of-Stake smart contract ecosystem. The overall purpose is 
+to provide a sustainable framework for people, especially those in underprivileged African societies, to 
+earn and hold cryptocurren cy revenue. The system provides mining, decentralized cryptocurrency ex-
+change, and staking via a modular, extensible design —beneficial to both technological innovation and 
+social benefit.  
+Core Purpose & Vision  
+ - Accessible Crypto Income  
+   - XMR2ADA is in tended to provide the world with an open, easy procedure   
+ of participating in crypto mining and gaining. By removing hardware and   
+ technical barriers, the website strives to make earning opportunities more   
+ democratic.  
+ - Socially Responsible Blockch ain Development  
+    - The project ’s structure is intended to inspire developers and organizations  
+ to harness blockchain technologies for social good, focusing on poverty    allevia-
+tion and new opportunities in emerging markets.  
+Key Components  
+ - XMR Mini ng Module  
+    - Connects directly to Monero ’s mainnet and mining pools.  
+    - Generates new Monero wallets with secure seed phrase backups.  
+  - Supports multi -threaded mining, adjustable mining intensity, and    
+ automatic pool failover for reliability.  
+    - Additional Insight: The mining module is optimized for low -resource   
+ environments, allowing users with basic hardware to participate.  
+ - Automated Swap Engine  
+    - Monitors Monero wallet balances and triggers XMR2ADA via API  
+   - Features real -time exchange rate tracking, batch processing, and a    
+ conversion history ledger.      - Additional Insight: Automation reduces manual intervention, ensuring   
+ users can c onvert earnings to ADA efficiently, even with fluctuating    
+ network conditions.  
+ - Cardano Network Module  
+   - Generates Cardano wallets using the Cardano CLI and BIP39 mnemonic   
+ for HD wallet support.  
+    - Compatible with mainnet and testnet, support ing multiple address types   
+ and staking pool delegation.  
+  - Executes transactions and maintains secure blockchain connectivity.  
+    - Additional Insight: The staking feature enables users to earn yield on   
+ converted ADA, further maximizing their crypt o income potential.  
+Technical Architecture  
+ - Languages & Tools  
+   - Utilizes Python, Cardano CLI, and a suite of cryptographic libraries for   
+ cross -chain compatibility and security.  
+ - Blockchain Networks  
+    Monero:  Proof -of-Work, privacy -preserving fe atures (ring signatures, coin   
+ mixing).  
+    Cardano : Proof -of-Stake, smart contract capabilities.  
+ - Data Management  
+    - Wallets are stored as JSON for transparency and ease of integration;   
+ blockchain data is indexed and immutable with integrity checks.  
+ - Security  
+  - Incorporates air -gapped key generation, hardware wallet integration,   
+ encrypted wallet storage, address  whitelisting, and KYC integration points.  
+ - Monitoring & Reporting  
+    - Real -time mining dashboards, automated alerts, and detailed transaction   
+ and system logs provide operational visibility.  
+ - Additional Insight  
+    - The modular architecture ensur es each component can be upgraded or   
+ expanded without affecting the overall system, supporting long -term    scalabil-
+ity. 
+Scalability & Future Development   - Unified Application  
+    - Planned integration of all modules into a single application for seaml ess   
+ mining, conversion, and staking workflows.  
+ - Server -Hosted Mainnet Sync  
+    - Enables lightweight client operation, making the system accessible even   
+ on low -bandwidth networks or basic hardware.  
+ - Database Integration   
+    - Large -scale management of JSON -based wallets and blockchain CRUD   
+ operations for enterprise and community deployments.  
+ - Expanded API & DeFi Capabilities   
+    - Future support for more swap APIs and broader DeFi integrations to   
+ expand earning and utility options.  
+ - Additional Insight  
+    - These scalability features are critical for mass adoption, particularly in   
+ regions with inconsistent internet or limited computing resources.  
+Potential Applications  
+ - Privacy -Preserving ADA Transactions  
+    - Facilitates confidential financial operations by combining Monero ’s   
+ privacy features with Cardano ’s utility.  
+ - Automated Mining Reward Conversion  
+    - Streamlines the process of converting mining rewards into stakable ADA,   
+ reducing friction for u sers.  
+ - Cross -Chain DeFi and Staking  
+    - Opens the door for users to participate in decentralized finance and   
+ staking across networks.  
+ - Educational Tools  
+    - Serves as a practical resource for blockchain literacy, equipping users with  
+ hands -on financial empowerment tools.  
+ - Additional Insight  
+    - By providing a full -stack solution, XMR2ADA supports both advanced   
+ users seeking automation and newcomers needing simplicity.  
+Impact Potential  
+ By considerably lowering the technical and hardware  limitations of cryptocurrency mining and earning in a very major way, XMR2ADA can potentially open up new earning prospects to economically 
+backward societies. Its business model —maintaining a good balance of technical ingenuity with a strong 
+social respo nsibility spirit —can be replicated as an example to leverage blockchain for inclusive economic 
+growth. The modular, extensible nature of the project offers a platform to grow, customize, and be 
+adopted in mass overseas.  
+ 
+GAME DEVELOPMENT (  February 2021 - April 2021)  
+3D Pong Game  
+ • Built a unique 3D Pong game in C++ using OpenGL (Graphic Rendering API)  
+ • Utilized Github to assist in onl ine communication and software development between group 
+members  
+ • Collaborated with another group member to write a report for graded submission  
+INDIVIDUAL 2D GAME DESIGN     (September 2020 – December 2020)  
+Dragon’s Hollow  
+ • Built a 2D simulated game using Object Oriented techniques, written in C++ on a Linux machine  
+ • It runs by randomizing each iteration and outputting the states of each step until the final out-
+come  
+ARTIFICIAL INTELLIGENCE (AI) ( September 2019 – April 2020)  
+Autonomous Vehicle  
+ • Using reinforced & supervised learning to train an RC car, using an Arduino, to traverse a course  
+ • Raspberry Pi & Python used to program the neural network model of the machine learning  
+ROBOTICS     (January 2019 – September 2019)  
+Inverse Kinematic Articulating Robotic System  
+ • Designing a robotic arm controlled by inverse kinematics  
+ • Collaborating with teammates to draft PowerPoint presentations for a technical audience  
+ 

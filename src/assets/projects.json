@@ -1,0 +1,90 @@
+[
+  {
+    "name": "linkUp",
+    "description": "It's an integrated content management system in which the users can create, publish, and engage\nwith the blog posts. The primary aim is to create an online collaborative community that enables\nknowledge sharing along with the user interaction through comment and feedback mechanisms.",
+    "logo": "linkUp_Pics/linkUp_logo.jpg",
+    "images": []
+  },
+  {
+    "name": "hackTheTrack",
+    "description": "The Enterprise GR Strategy Center is a racing analytics platform that transforms Toyota GR Cup racing data into championship-winning insights through multiple insightful capabilities: Simulation Engine, Live Data Processing, Predictive Analytics, Track/Driver Psychology Analysis, Performance Visualization, Strategy Reports. Traditional racing analytics may tend to focus strictly on mechanical performance, but this platforms attempts to reveal the human aspect to being a driver, attempting to optimally decode driver psychology.",
+    "logo": "hackTheTrack_Pics/hackTheTrack_logo.png",
+    "images": [
+      "hackTheTrack_Pics/picture1.png",
+      "hackTheTrack_Pics/picture10.png",
+      "hackTheTrack_Pics/picture11.png",
+      "hackTheTrack_Pics/picture12.png",
+      "hackTheTrack_Pics/picture2.png",
+      "hackTheTrack_Pics/picture3.png",
+      "hackTheTrack_Pics/picture4.png",
+      "hackTheTrack_Pics/picture5.png",
+      "hackTheTrack_Pics/picture6.png",
+      "hackTheTrack_Pics/picture7.png",
+      "hackTheTrack_Pics/picture8.png",
+      "hackTheTrack_Pics/picture9.png"
+    ]
+  },
+  {
+    "name": "codeRescue",
+    "description": "A comprehensive crisis management platform built with React and Vite, designed to coordinate emergency responses across Africa using OpenStreetMap integration, real-time messaging, and cryptocurrency wallet functionality.",
+    "logo": "codeRescue_Pics/main_icon.png",
+    "images": [
+      "codeRescue_Pics/picture1.png",
+      "codeRescue_Pics/picture10.png",
+      "codeRescue_Pics/picture11.png",
+      "codeRescue_Pics/picture12.png",
+      "codeRescue_Pics/picture2.png",
+      "codeRescue_Pics/picture3.png",
+      "codeRescue_Pics/picture4.png",
+      "codeRescue_Pics/picture5.png",
+      "codeRescue_Pics/picture6.png",
+      "codeRescue_Pics/picture7.png",
+      "codeRescue_Pics/picture8.png",
+      "codeRescue_Pics/picture9.png"
+    ]
+  },
+  {
+    "name": "holdMySpot",
+    "description": "HoldMySpot is an advanced AI-powered platform designed to reclaim your time. By leveraging agentic AI, we navigate complex phone trees, wait on hold, and negotiate with service providers on your behalf. Our mission is simple: Never Wait on Hold Again. We empower users by handling the frustration of day-to-day bureaucracy\u2014dealing with utility companies, airlines, healthcare providers, and more\u2014so you can focus on what truly matters.",
+    "logo": "holdMySpot_Pics/holdMySpot_logo.png",
+    "images": [
+      "holdMySpot_Pics/picture01.png",
+      "holdMySpot_Pics/picture02.png",
+      "holdMySpot_Pics/picture03.png",
+      "holdMySpot_Pics/picture04.png",
+      "holdMySpot_Pics/picture05.png",
+      "holdMySpot_Pics/picture06.png",
+      "holdMySpot_Pics/picture07.png",
+      "holdMySpot_Pics/picture08.png",
+      "holdMySpot_Pics/picture09.png",
+      "holdMySpot_Pics/picture10.png",
+      "holdMySpot_Pics/picture11.png",
+      "holdMySpot_Pics/picture12.png",
+      "holdMySpot_Pics/picture13.png",
+      "holdMySpot_Pics/picture14.png",
+      "holdMySpot_Pics/picture15.png",
+      "holdMySpot_Pics/picture16.png"
+    ]
+  },
+  {
+    "name": "pactChain",
+    "description": "I created an end-to-end full-stack app for signing and handling digital agreements on a custom blockchain. Frontend: stateful React + TypeScript (Vite) with secure state, auth, wallet integration, and signing/viewing UI. Backend: Node.js + Express for off-chain computation, user storage, APIs, and blockchain bridging. On-chain: Substrate Rust parachain on Polkadot with an \"agreements\" pallet (storage, events, extrinsics). Showcases full-stack and blockchain engineering expertise.",
+    "logo": "pactChain_Pics/pactChain_logo.jpg",
+    "images": []
+  },
+  {
+    "name": "xmr2ada",
+    "description": "XMR2ADA is a multi-module prototype that combines Monero mining/wallet, an automated swap template, and Cardano node/wallet functionality to enable a flow from mined XMR to staked ADA. Core components are present; the principal work remaining is a robust orchestrator, secure key management, containerized deployment, and production\u2011grade reliability features.",
+    "logo": "",
+    "images": [
+      "xmr2ada_Pics/xmr2ada_pic1.png",
+      "xmr2ada_Pics/xmr2ada_pic2.png",
+      "xmr2ada_Pics/xmr2ada_pic3.png",
+      "xmr2ada_Pics/xmr2ada_pic4.png",
+      "xmr2ada_Pics/xmr2ada_pic5.png",
+      "xmr2ada_Pics/xmr2ada_pic6.png",
+      "xmr2ada_Pics/xmr2ada_pic7.png",
+      "xmr2ada_Pics/xmr2ada_pic8.png"
+    ]
+  }
+]
