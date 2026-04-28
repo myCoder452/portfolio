@@ -39,7 +39,7 @@ const About = () => {
           </p>
           <p className="text-lg leading-relaxed">
             <img src={profilePic} alt="Adamu" className="rounded-lg w-[46%] h-auto float-right ml-6 mb-4" />
-            I've had the privilege of contributing to diverse projects, where I've woven together the threads of front-end artistry and back-end structure. Each line of code is a testament to the collaborative spirit that fuels innovation. This journey has instilled in me the values of precision, adaptability, and the pursuit of excellence.
+            I've had the privilege of contributing to diverse projects, where I've woven together the threads of front-end artistry and back-end structure. My goal is to improve upon and fuel my own spirit and passion for development. This journey has instilled in me the values of precision, adaptability, and the pursuit of excellence.
             <br /><br />
             Beyond the screen, I find inspiration in the intricate patterns of the natural world and the boundless stories of human connection. I believe that the most impactful technology is born from a deep understanding of the human experience. I am eager to continue this voyage, to explore new horizons, and to build a future where technology empowers and inspires.
           </p>
